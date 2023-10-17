@@ -1,0 +1,4 @@
+2023-10-17 17:07:16 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "BOOK" no encontrada
+Table "BOOK" not found; SQL statement:
+SELECT * FROM BOOK [42102-199]
